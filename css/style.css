@@ -78,7 +78,7 @@ html{
 #home::before{
    content: "";
    position: absolute;
-   background:url('../pexels-pixabay-461198.jpg');
+   background:url('../img/pexels-pixabay-461198.jpg');
    height: 100%;
    width: 100%;
    z-index: -2;
